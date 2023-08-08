@@ -45,7 +45,7 @@ This is a list of my projects, with links to their GitHub repositories and photo
 ## Android Apps
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Ahmadfzlbs&bg_color=30,065290,0c94d7&title_color=fff&text_color=fff&icon_color=fff&repo=presensi-app&show_owner=true)](https://github.com/Ahmadfzlbs/presensi-app)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ahmadfzlbs&bg_color=30,065290,0c94d7&title_color=fff&text_color=fff&icon_color=fff&repo=presensi-app&show_owner=true)](https://github.com/Ahmadfzlbs/bmproject)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Ahmadfzlbs&bg_color=30,065290,0c94d7&title_color=fff&text_color=fff&icon_color=fff&repo=bmproject&show_owner=true)](https://github.com/Ahmadfzlbs/bmproject)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ahmadfzlbs&bg_color=30,065290,0c94d7&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&include_all_commits=true&count_private=true)
