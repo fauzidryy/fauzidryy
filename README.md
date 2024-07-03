@@ -1,13 +1,11 @@
 # 💫 About Me:
-I'am a D3 student from LP3I Tasikmalaya Polytechnic majoring in Informatics Management. I'am currently learning Android native programming (Kotlin, Java). I have made a project of attendance application for SMK Negeri 1 Ciamis using flutter and its database using firebase. I love to learn new things in the field of Android Development.
+I'am an undergraduate student of STMIK Dharma Negara Bandung majoring in Informatics Engineering. I am currently learning native Android programming (Kotlin, Java). I have created an attendance application project for SMK Negeri 1 Ciamis using flutter and its database using firebase. I love to learn new things in the field of Android Development.
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Ahmadfzlbs-%231877F2.svg?logo=Facebook&logoColor=1877F2&style=social)](https://facebook.com/ahmadfzlbs)
-[![Instagram](https://img.shields.io/badge/@mdfzlbss-%23E4405F.svg?logo=Instagram&logoColor=E4405F&style=social)](https://instagram.com/mdfzlbss)
+[![Instagram](https://img.shields.io/badge/@fauzi.io-%23E4405F.svg?logo=Instagram&logoColor=E4405F&style=social)](https://instagram.com/fauzi.io)
 [![LinkedIn](https://img.shields.io/badge/in/Ahmadfzlbs-%230077B5.svg?logo=linkedin&logoColor=0077B5&style=social)](https://linkedin.com/in/ahmadfzlbs)
-[![Pinterest](https://img.shields.io/badge/Ahmadfzlbs-%23E60023.svg?logo=Pinterest&logoColor=E60023&style=social)](https://pinterest.com/ahmadfzlbs)
-[![TikTok](https://img.shields.io/badge/@madfzlbs-%23000000.svg?logo=TikTok&logoColor=000000&style=social)](https://tiktok.com/@madfzlbs) 
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
@@ -15,28 +13,12 @@ I'am a D3 student from LP3I Tasikmalaya Polytechnic majoring in Informatics Mana
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 # My Projects
 
