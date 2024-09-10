@@ -4,7 +4,7 @@ I'am a graduated Bachelor degree student of STMIK Dharma Negara Bandung majoring
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Ahmadfzlbs-%231877F2.svg?logo=Facebook&logoColor=1877F2&style=social)](https://facebook.com/ahmadfzlbs)
-[![Instagram](https://img.shields.io/badge/@fauzi.io-%23E4405F.svg?logo=Instagram&logoColor=E4405F&style=social)](https://instagram.com/fauzi.io)
+[![Instagram](https://img.shields.io/badge/@fauzidry-%23E4405F.svg?logo=Instagram&logoColor=E4405F&style=social)](https://instagram.com/fauzidry)
 [![LinkedIn](https://img.shields.io/badge/in/Ahmadfzlbs-%230077B5.svg?logo=linkedin&logoColor=0077B5&style=social)](https://linkedin.com/in/ahmadfzlbs)
 
 # 💻 Tech Stack:
