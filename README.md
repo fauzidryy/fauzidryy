@@ -1,5 +1,5 @@
 # 💫 About
-I'am a graduated Bachelor degree student of STMIK Dharma Negara Bandung majoring in Informatics Engineering. I am currently learning native Android programming (Kotlin, Java). I have created an attendance application project for SMK Negeri 1 Ciamis using flutter and its database using firebase. I love to learn new things in the field of Android Development.
+I'am a graduated Bachelor degree student of STMIK Dharma Negara Bandung majoring in Informatics Engineering. I am currently learning native Android programming (Kotlin, Java). I love to learn new things in the field of Android Development.
 
 
 # 🌐 Socials
