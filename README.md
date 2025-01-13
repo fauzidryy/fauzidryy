@@ -3,7 +3,7 @@ I hold a Bachelor's degree in Informatics Management from STMIK Dharma Negara Ba
 
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/in/fauzi-lubis-%230077B5.svg?logo=linkedin&logoColor=0077B5&style=social)](https://linkedin.com/in/fauzi-lubis)
+[![LinkedIn](https://img.shields.io/badge/in/Fauzi-%230077B5.svg?logo=linkedin&logoColor=0077B5&style=social)](https://linkedin.com/in/fauzi-lubis)
 
 # 🛠️ Projects
 
